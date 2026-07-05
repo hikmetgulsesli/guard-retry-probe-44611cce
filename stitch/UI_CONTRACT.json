@@ -1,0 +1,60 @@
+[
+  {
+    "screenId": "fd7430815e10442697860612e80b7043",
+    "screenTitle": "Status Utility - Guard Retry Probe",
+    "deviceType": "DESKTOP",
+    "elements": [
+      {
+        "type": "button",
+        "label": "history",
+        "line": 132
+      },
+      {
+        "type": "button",
+        "label": "settings",
+        "line": 135
+      },
+      {
+        "type": "button",
+        "label": "Status",
+        "line": 179
+      },
+      {
+        "type": "input",
+        "label": "checkbox",
+        "inputType": "checkbox",
+        "line": 186
+      }
+    ],
+    "navigation": [],
+    "buttons": [
+      {
+        "type": "button",
+        "label": "history",
+        "line": 132
+      },
+      {
+        "type": "button",
+        "label": "settings",
+        "line": 135
+      },
+      {
+        "type": "button",
+        "label": "Status",
+        "line": 179
+      }
+    ],
+    "inputs": [
+      {
+        "type": "input",
+        "label": "checkbox",
+        "inputType": "checkbox",
+        "line": 186
+      }
+    ],
+    "hardcodedData": [],
+    "totalInteractive": 4,
+    "requiresRouter": false,
+    "requiresDragDrop": false
+  }
+]
