@@ -1,0 +1,31 @@
+[
+  {
+    "screenId": "fd7430815e10442697860612e80b7043",
+    "title": "Status Utility - Guard Retry Probe",
+    "componentName": "StatusUtilityGuardRetryProbe",
+    "file": "src/screens/StatusUtilityGuardRetryProbe.tsx",
+    "buttons": 3,
+    "inputs": 1,
+    "links": 0,
+    "actions": [
+      {
+        "id": "history-1",
+        "kind": "button",
+        "label": "history",
+        "index": 0
+      },
+      {
+        "id": "settings-2",
+        "kind": "button",
+        "label": "settings",
+        "index": 1
+      },
+      {
+        "id": "refresh-status-3",
+        "kind": "button",
+        "label": "Refresh Status",
+        "index": 2
+      }
+    ]
+  }
+]
